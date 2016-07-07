@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Prayer Garden]]></title>
+        <description><![CDATA[The Prayer Garden]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 15:02:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8388156b-2829-45b6-b1d7-6f0540aa7665.jpg">]]></description>
+            <link>undefinedc99f7175-b5ff-41bf-92b4-c38c96c8dd89/index.html</link>
+            <guid isPermaLink="false">c99f7175-b5ff-41bf-92b4-c38c96c8dd89</guid>
+            <pubDate>Thu, 07 Jul 2016 15:02:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
