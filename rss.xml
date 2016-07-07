@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Prayer Garden]]></title>
         <description><![CDATA[The Prayer Garden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-prayer-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 15:19:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 15:26:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-prayer-garden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/295931c0-57be-4b2f-ad31-a951869ef238.jpg">]]></description>
+            <link>https://thegrid.ai/the-prayer-garden/0204920d-b1d5-4346-a964-76d88b9c3c9e/index.html</link>
+            <guid isPermaLink="false">0204920d-b1d5-4346-a964-76d88b9c3c9e</guid>
+            <pubDate>Thu, 07 Jul 2016 15:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Arts Camp for Teens, West Townsend, Massachusetts. 9 likes. A two-week worship arts day camp in West Townsend, MA. ACT IV will be held July 25-29 through..." src="https://scontent.xx.fbcdn.net/t31.0-8/c25.0.851.315/p851x315/12970792_878460588946235_8467292944530171643_o.jpg">]]></description>
