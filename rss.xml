@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Prayer Garden]]></title>
-        <description><![CDATA[The Prayer Garden]]></description>
+        <title><![CDATA[A place where you can explore, grow, serve,  and be a part of something greater. ]]></title>
+        <description><![CDATA[A place where you can explore, grow, serve,  and be a part of something greater. ]]></description>
         <link>https://thegrid.ai/the-prayer-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 15:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 15:36:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-prayer-garden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/prayergarden.us/</link>
+            <guid isPermaLink="false">28382574-4bd2-415c-9c32-7d498c7fceb6</guid>
+            <pubDate>Thu, 07 Jul 2016 15:36:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/295931c0-57be-4b2f-ad31-a951869ef238.jpg">]]></description>
